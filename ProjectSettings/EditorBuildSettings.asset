@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 90e96417c95ef0a4b9db9a52084c02b7
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 8ec422a5c79c14a43b9b9dfaa845cc7d
+  - enabled: 1
+    path: Assets/Scenes/CustomizationMenu.unity
+    guid: 1466456e20dd9554aa3755b9488fbdd8
+  - enabled: 1
+    path: Assets/Scenes/CustomizeRestaurantorChefmenu.unity
+    guid: 3b525dcee8ffc904fa80c1cb62d7ac68
+  - enabled: 1
+    path: Assets/Scenes/CustomizeRestaurant.unity
+    guid: 57c8260da49f66d4ca30660357ad37b3
+  m_configObjects: {}
